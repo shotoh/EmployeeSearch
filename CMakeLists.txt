@@ -6,6 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(EmployeeSearch
         employeemain.c
         employee.h
-        employeeone.c
         employeetable.c
+        employeetwo.c
 )
